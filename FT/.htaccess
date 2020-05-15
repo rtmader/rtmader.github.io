@@ -1,3 +1,4 @@
 AuthType Basic
 AuthName "Hmm? :)"
 AuthUserFile ..\ppww\.htpasswd
+Require valid-user
